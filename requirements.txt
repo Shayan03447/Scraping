@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+playwright==1.44.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+pandas==2.2.2
+python-dotenv==1.0.1
+scrapfly-sdk==0.8.9
+httpx==0.27.0
+lxml==5.2.2
